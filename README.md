@@ -1,6 +1,14 @@
 # Wofi
 Wofi is a launcher/menu program for wlroots based wayland compositors such as sway
 
+## A FORK
+
+This repo is a fork of the wofi repo, the previous maintainer left the project as they have no energy to continue working on it. I am forking it because I use wofi.
+
+Currently, bug reports and issues should probably go here.
+
+I do not want to edit the next lines below as this might be a good reference in the future.
+
 [![builds.sr.ht status](https://builds.sr.ht/~scoopta/wofi.svg)](https://builds.sr.ht/~scoopta/wofi?)
 ## Dependencies
 	libwayland-dev
