@@ -1,0 +1,8 @@
+^\.cproject$
+^\.project$
+^\.settings$
+^\.hgrepos$
+^build$
+^debug$
+^Debug$
+^noasan$
