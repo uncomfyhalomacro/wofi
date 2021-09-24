@@ -9,7 +9,7 @@ Currently, bug reports and issues should probably go here.
 
 I do not want to edit the next lines below as this might be a good reference in the future.
 
-Disclaimer: IDK C but I am going to learn that during my programming adventure.
+Disclaimer: IDK C but I am going to learn that during my programming adventure which I doubt because I am going to write a clone of this in Zig anyway...
 
 [![builds.sr.ht status](https://builds.sr.ht/~scoopta/wofi.svg)](https://builds.sr.ht/~scoopta/wofi?)
 ## Dependencies
